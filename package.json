@@ -1,0 +1,17 @@
+{
+  "name": "ec2-nodejs-sample",
+  "version": "1.0.0",
+  "description": "A simple Node.js HTTP server for running on EC2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "ec2",
+    "sample",
+    "server"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
